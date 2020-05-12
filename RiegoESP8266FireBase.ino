@@ -1,4 +1,4 @@
-/ TUTORIAL REGAR PLANTAS DESDE INTERNET CON ESP8266, FIREBASE Y APPINVENTOR.
+// TUTORIAL REGAR PLANTAS DESDE INTERNET CON ESP8266, FIREBASE Y APPINVENTOR.
 // http://suarezdefigueroa.es/meteohuerto/
 // https://youtu.be/Jw1j8ZlIV2I 
 // Creado a partir de: https://www.youtube.com/watch?v=jW1j-l2Jr10&t
